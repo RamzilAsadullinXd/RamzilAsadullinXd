@@ -5,14 +5,13 @@
 Latest YouTube Videos
 
 ### Launges and Tools
-  <img src="./assets/badges/html.svg" alt="HTML" height="28" />
-  <img src="./assets/badges/css.svg" alt="CSS" height="28" />
-    <img src="./assets/badges/scss.png" alt="Scss" height="28"/>
-  <img src="./assets/badges/js.svg" alt="JavaScript" height="28" />
-  <img src="./assets/badges/vite.svg" alt="Vite" height="28" />
-  <img src="./assets/badges/npm.png" alt="Npm" height="28" />
-
+  ![Html](./assets/badges/html.svg)
+  ![Css](./assets/badges/css.svg)
+  ![Scss](./assets/badges/scss.png)
+  ![Javascript](./assets/badges/js.svg)
+  ![Vite](./assets/badges/vite.svg)
+  ![Npm](./assets/badges/npm.png)
 ### Follow me
 
 [![Telegram](./assets/social/telegram.png)](https://t.me/AsadullinRamzil)
-[![Gmail](./assets/social/gmail.png)](asadullinramzil0@gmail.com)
+[![Gmail](./assets/social/gmail.png)](https://mail.google.com/mail/?view=cm&fs=1&to=asadullinramzil0@gmail.com)
