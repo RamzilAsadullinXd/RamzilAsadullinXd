@@ -7,10 +7,10 @@ Latest YouTube Videos
 ### Launges and Tools
   ![Html](./assets/badges/html.svg)
   ![Css](./assets/badges/css.svg)
-  ![Scss](./assets/badges/scss.png)
+  ![Scss](./assets/badges/scss.svg)
   ![Javascript](./assets/badges/js.svg)
   ![Vite](./assets/badges/vite.svg)
-  ![Npm](./assets/badges/npm.png)
+  ![Npm](./assets/badges/npm.svg)
 ### Follow me
 
 [![Telegram](./assets/social/telegram.png)](https://t.me/AsadullinRamzil)
